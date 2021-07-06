@@ -1,7 +1,3 @@
-{
-"name": "Dana Node",
-"description": "Highly available Low fee 0.0%",
-"ticker": "DNND",
+{ "name": "Dana Node",  "ticker": "DNND",  "description": "Highly available Low fee 0.0%",
 "homepage": " https://git.io/JcMuT ",
-"extended": " https://git.io/Jcvmh "
-}
+"extended": " https://git.io/JcMiP " }
